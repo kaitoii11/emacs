@@ -1,0 +1,12 @@
+.DS_Store
+bbrev_defs
+ac-comphist.dat
+ac-dict/
+auto-save-list/
+el-get/
+elpa/
+history
+lisp/
+saved-places
+url/
+
